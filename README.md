@@ -48,4 +48,4 @@ Note that you only need to create ONE video per lab (so Lab 3A and 3B should be 
 
 You should edit THIS file and add a link to your video on Vimeo (preferred) or YouTube here:
 
-Link to my Explainer Video for Lab 3: [Click here](https://<yourlinkhere>).
+Link to my Explainer Video for Lab 3: [Click here](https://youtu.be/7y5vRV4zhgw).
